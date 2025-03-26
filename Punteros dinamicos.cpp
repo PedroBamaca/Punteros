@@ -3,7 +3,7 @@ using namespace std;
 
 main(){
 	
-	/*int edad,*p_edad;
+	int edad,*p_edad;
 	p_edad=&edad;
 	
 	cout<<"Ingrese edad: ";
@@ -22,7 +22,7 @@ new= reserva un espacio en memoria
 delete [] = libera la memoria*/
 	
 	
-  /*int total=0;
+  int total=0;
 	int notas[total];
 	char res;
 	int *p_notas = notas;
