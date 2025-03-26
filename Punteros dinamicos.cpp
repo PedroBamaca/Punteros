@@ -63,7 +63,7 @@ delete [] = libera la memoria*/
 		cout<<"Nota ("<<i<<"): "<<*p_notas<<endl;
 		p_notas++;	
 	}
-	delete[]p_notas;*/ 
+	delete[]p_notas;
 	
 	int fil =0, col=0,**pm_notas;
 	
